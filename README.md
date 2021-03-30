@@ -1,4 +1,4 @@
-#Building RESTful Web Service with Spring Boot, Spring Data and Apache Ignite
+# Building RESTful Web Service with Spring Boot, Spring Data and Apache Ignite
 
 Reference: [https://www.gridgain.com/docs/tutorials/spring/spring-ignite-tutorial](https://www.gridgain.com/docs/tutorials/spring/spring-ignite-tutorial)
 
